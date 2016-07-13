@@ -4,7 +4,7 @@ Chat made with node and socket.io
 #TODO
 [ ] General Room
 
-[ ] One login for all (maybe social login)
+[ ] One login for all [maybe social login](https://github.com/ciaranj/connect-auth)
 
 [ ] Send files
 
