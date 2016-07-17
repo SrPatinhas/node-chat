@@ -1,5 +1,9 @@
 # node-chat
-Chat made with node and socket.io
+Chat made with:
+- Node.js
+- Socket.io
+- Electron
+- Angular2
 
 #TODO
 [ ] General Room
